@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732092850 source:c:\users\geral\desktop\texto_all-caps\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+

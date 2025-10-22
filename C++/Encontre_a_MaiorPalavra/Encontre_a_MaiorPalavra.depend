@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733388506 source:c:\users\geral\desktop\encontre_a_maiorpalavra\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+

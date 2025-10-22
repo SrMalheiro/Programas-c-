@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736934335 source:c:\users\geral\desktop\funções strings c++\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

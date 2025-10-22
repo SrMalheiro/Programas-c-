@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732699135 source:c:\users\geral\desktop\estatística palavras\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1732733986 source:c:\users\luis malheiro\desktop\estatística palavras\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+

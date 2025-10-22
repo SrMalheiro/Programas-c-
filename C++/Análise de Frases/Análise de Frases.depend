@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1737104539 source:c:\users\geral\desktop\análise de frases\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<vector>
+	<algorithm>
+
